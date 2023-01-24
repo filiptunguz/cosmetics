@@ -1,0 +1,13 @@
+{
+  "name": "My PWA App",
+  "short_name": "My PWA",
+  "icons": [
+    {
+      "src": "assets/icons/icon-72x72.jpg",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
